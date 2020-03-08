@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="background">background</string>
+    <string name="textview1">Profil</string>
+    <string name="pp">pp</string>
+    <string name="textview2">• Nama : Rafiqul Huda \n• Alamat : Bungas, Sumberagung, \tYogyakarta \n• TTL :
+        Bantul, 10 Desember 1998\nAgama : Islam</string>
+    <string name="joss">JOSS</string>
+    <string name="textview3">Hobi</string>
+    <string name="textview33">Riwayat Pendidikan</string>
+    <string name="textview34">• TK Masyithoh, Dukuh, Imogiri, Bantul (2002-2004)\n\n• SD Negeri 1
+        Barongan (2004-2010)\n\n• SMP Negeri 1 Imogiri (2010-2013)\n\n• SMA
+        Negeri 1 Jetis (2013-2016)\n\n• STMIK
+        AKAKOM (2018-sekarang)
+
+</string>
+    <string name="kontak">Kontak</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="textview7">RafiQul Huda</string>
+    <string name="textview8">\@hudaraf</string>
+    <string name="textview9">+628984730679</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="todo13">TODO</string>
+
+</resources>
